@@ -15,7 +15,7 @@ function App() {
       <main>
         <PageRoutes />
       </main>
-      <footer>asdf</footer>
+      {/* <footer>asdf</footer> */}
     </div>
   );
 }
